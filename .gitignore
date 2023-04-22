@@ -1,0 +1,8 @@
+
+quartus/db/
+
+quartus/greybox_tmp/
+
+gowin/impl/temp/
+
+*.bak
